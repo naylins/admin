@@ -1,0 +1,24 @@
+{
+  "profile": [
+    {
+      "nome": "felipão",
+      "email": "felipe@alura.com",
+      "id": 1
+    },
+    {
+      "nome": "Nayra",
+      "email": "nayralins@icloud.com",
+      "id": 2
+    },
+    {
+      "nome": "davi augusto tonin",
+      "email": "davi.augustotonin@gmail.com",
+      "id": 3
+    },
+    {
+      "nome": "Biquini",
+      "email": "nayra@nayra.com",
+      "id": 4
+    }
+  ]
+}
